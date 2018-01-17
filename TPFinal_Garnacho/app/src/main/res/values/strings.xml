@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TPFinal_Garnacho</string>
+    <string name="activity_main">Accueil</string>
+    <string name="activity_characters">Liste des personnages</string>
+    <string name="activity_people">Personnage</string>
+    <string name="welcome">Bienvenue </string>
+    <string name="showList">Liste des personnages </string>
+    <string name="no_character_found">Aucun personnage n'a été trouvé </string>
+    <string name="name_error">Erreur lors de l'écriture du nom</string>
+    <string name="unknown_error">Erreur inconnue !</string>
+    <string name="TAG">ok</string>
+    <string name="peopleName">Nom du personnage : </string>
+    <string name="peopleMass">Poids du personnage : </string>
+    <string name="peopleHair">Couleur des cheveux : </string>
+    <string name="peopleSkin">Couleur de peau : </string>
+    <string name="peopleEye">Couleur des yeux : </string>
+    <string name="peopleBirth">Date de naissance : </string>
+    <string name="peopleGender">Genre : </string>
+    <string name="peopleHeight">Taille du personnage : </string>
+
+</resources>
